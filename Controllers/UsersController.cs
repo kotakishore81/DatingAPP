@@ -29,7 +29,8 @@ namespace Dating_API.Controllers
         [HttpGet("{id}")]
         public async Task<ActionResult<AppUser>> GetUser(int Id)
         {
-            return await _context.Users.FindAsync(Id);
+            var name= await _context.Users.FindAsync(Id);
+            return name;
             
         }
 
