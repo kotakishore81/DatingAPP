@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "9hOj6NE3vw3lcDppyiMN5j4z53zC2vyhd40GFVBVUVWEDjcxr8h4uFPklCbNKrfOx1+jrQjnilbxlc7G33Q9Tg==",
+  "dgSpecHash": "d0W2Tc+Pc/1guFjh7TlEytHigT1xFcBoFD7rbb/JPRaxvwhn57dOCTQLNDelpMKqgAkVXLsiE+N31mBYwnb+DA==",
   "success": true,
   "projectFilePath": "C:\\Users\\gopalakr_quantum4722\\Desktop\\DatingApp\\Dating_API\\Dating_API\\Dating_API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\gopalakr_quantum4722\\.nuget\\packages\\automapper\\10.0.0\\automapper.10.0.0.nupkg.sha512",
+    "C:\\Users\\gopalakr_quantum4722\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.0.1\\automapper.extensions.microsoft.dependencyinjection.8.0.1.nupkg.sha512",
     "C:\\Users\\gopalakr_quantum4722\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\gopalakr_quantum4722\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\3.1.7\\microsoft.aspnetcore.authentication.jwtbearer.3.1.7.nupkg.sha512",
     "C:\\Users\\gopalakr_quantum4722\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
@@ -68,7 +70,7 @@
     "C:\\Users\\gopalakr_quantum4722\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
     "C:\\Users\\gopalakr_quantum4722\\.nuget\\packages\\system.objectmodel\\4.3.0\\system.objectmodel.4.3.0.nupkg.sha512",
     "C:\\Users\\gopalakr_quantum4722\\.nuget\\packages\\system.reflection\\4.3.0\\system.reflection.4.3.0.nupkg.sha512",
-    "C:\\Users\\gopalakr_quantum4722\\.nuget\\packages\\system.reflection.emit\\4.3.0\\system.reflection.emit.4.3.0.nupkg.sha512",
+    "C:\\Users\\gopalakr_quantum4722\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512",
     "C:\\Users\\gopalakr_quantum4722\\.nuget\\packages\\system.reflection.emit.ilgeneration\\4.3.0\\system.reflection.emit.ilgeneration.4.3.0.nupkg.sha512",
     "C:\\Users\\gopalakr_quantum4722\\.nuget\\packages\\system.reflection.emit.lightweight\\4.3.0\\system.reflection.emit.lightweight.4.3.0.nupkg.sha512",
     "C:\\Users\\gopalakr_quantum4722\\.nuget\\packages\\system.reflection.extensions\\4.3.0\\system.reflection.extensions.4.3.0.nupkg.sha512",

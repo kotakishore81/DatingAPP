@@ -12,7 +12,6 @@ C:\Users\gopalakr_quantum4722\Desktop\DatingApp\Dating_API\Dating_API\bin\Debug\
 C:\Users\gopalakr_quantum4722\Desktop\DatingApp\Dating_API\Dating_API\bin\Debug\net5.0\Dating_API.runtimeconfig.json
 C:\Users\gopalakr_quantum4722\Desktop\DatingApp\Dating_API\Dating_API\bin\Debug\net5.0\Dating_API.runtimeconfig.dev.json
 C:\Users\gopalakr_quantum4722\Desktop\DatingApp\Dating_API\Dating_API\bin\Debug\net5.0\Dating_API.dll
-C:\Users\gopalakr_quantum4722\Desktop\DatingApp\Dating_API\Dating_API\bin\Debug\net5.0\ref\Dating_API.dll
 C:\Users\gopalakr_quantum4722\Desktop\DatingApp\Dating_API\Dating_API\bin\Debug\net5.0\Dating_API.pdb
 C:\Users\gopalakr_quantum4722\Desktop\DatingApp\Dating_API\Dating_API\bin\Debug\net5.0\Humanizer.dll
 C:\Users\gopalakr_quantum4722\Desktop\DatingApp\Dating_API\Dating_API\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
@@ -61,3 +60,7 @@ C:\Users\gopalakr_quantum4722\Desktop\DatingApp\Dating_API\Dating_API\bin\Debug\
 C:\Users\gopalakr_quantum4722\Desktop\DatingApp\Dating_API\Dating_API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
 C:\Users\gopalakr_quantum4722\Desktop\DatingApp\Dating_API\Dating_API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 C:\Users\gopalakr_quantum4722\Desktop\DatingApp\Dating_API\Dating_API\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\gopalakr_quantum4722\Desktop\DatingApp\Dating_API\Dating_API\bin\Debug\net5.0\Data\UserSeedData.json
+C:\Users\gopalakr_quantum4722\Desktop\DatingApp\Dating_API\Dating_API\bin\Debug\net5.0\ref\Dating_API.dll
+C:\Users\gopalakr_quantum4722\Desktop\DatingApp\Dating_API\Dating_API\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\gopalakr_quantum4722\Desktop\DatingApp\Dating_API\Dating_API\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
